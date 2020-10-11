@@ -1,6 +1,6 @@
 {
     "spriteSheet": "exterior",
-    "audio": "../audio/011 Route 101.mp3",
+    "audio": "./audio/011 Route 101.mp3",
     "neighbors": [
     {
         "direction": "south",

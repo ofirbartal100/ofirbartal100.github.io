@@ -1,6 +1,6 @@
 {
     "spriteSheet": "interior",
-    "audio": "../audio/005 Littleroot Town.mp3",
+    "audio": "./audio/005 Littleroot Town.mp3",
 
     "neighbors": [
     {
